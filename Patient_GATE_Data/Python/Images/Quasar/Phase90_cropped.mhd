@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -149.17 -271.697 -46
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 1.26953 1.26953 2
+DimSize = 237 158 53
+ElementType = MET_SHORT
+ElementDataFile = Phase90_cropped.raw
