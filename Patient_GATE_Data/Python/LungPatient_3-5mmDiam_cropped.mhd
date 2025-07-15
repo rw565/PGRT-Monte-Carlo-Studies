@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -180.176 -340.09 -709
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.976563 0.976563 3
+DimSize = 368 290 125
+ElementType = MET_SHORT
+ElementDataFile = LungPatient_3-5mmDiam_cropped.raw
