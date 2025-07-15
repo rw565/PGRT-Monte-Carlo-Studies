@@ -1,0 +1,14 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 -1 1.2246467991473532e-16 0 -1.2246467991473532e-16 -1
+Offset = -204.977 -402.97699999999998 -772
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RPS
+ElementSpacing = 2 2 2
+ITK_InputFilterName = MetaImageIO
+DimSize = 205 205 250
+ElementType = MET_FLOAT
+ElementDataFile = photon-Dose.raw
