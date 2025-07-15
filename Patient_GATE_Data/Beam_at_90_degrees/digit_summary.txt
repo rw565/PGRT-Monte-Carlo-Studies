@@ -1,6 +1,0 @@
-# NumberOfHits = 1767964062
-# NumberOfRun = 499
-# NumberOfEvents = 1996000000
-# Singles = 5947400
-# Coincidences = 45639
-# Delayed = 0
